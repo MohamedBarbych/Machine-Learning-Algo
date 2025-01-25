@@ -48,7 +48,7 @@ Here’s the current list of algorithms covered:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ml-algorithms-problems.git
+   git clone [https://github.com/your-username/ml-algorithms-problems.git](https://github.com/MohamedBarbych/Machine-Learning-Algo.git)
    ```
 2. Navigate to the project directory:
    ```bash
