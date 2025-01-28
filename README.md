@@ -110,5 +110,4 @@ Special thanks to the open-source community and contributors for their inspirati
 ### 📬 Contact
 
 If you have any questions or suggestions, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: https://github.com/MohamedBarbych
